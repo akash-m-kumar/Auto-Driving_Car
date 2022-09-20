@@ -6,4 +6,5 @@ updates tll now
 2. road created
 3. road movements updated 
 4. sensor lines created
-5. sensor activation color changes updaetd
+5. sensor activation color changes updated
+Controls are not automated for the moment,controls are arrow keys
