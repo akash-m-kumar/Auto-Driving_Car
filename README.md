@@ -9,6 +9,8 @@ updates till now
 4. sensor lines created
 5. sensor activation color changes updated
 6. controls are not automated for the moment,controls are arrow keys
+
+
 ![image](https://user-images.githubusercontent.com/100307354/191492890-367176d1-6b26-4e6e-880a-53642e530ced.png)
 Commit two:-
 updates at last:
