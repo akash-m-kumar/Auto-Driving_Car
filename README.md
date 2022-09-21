@@ -22,5 +22,5 @@ updates at last:
 6. neural link and car connected
 7. automation completed 
 
-#*#*#*#*#*#*#*#*#*#*#**#*#*#*#*#*#*#*#*#*#*#*#*#*#
+
 This project is a learning project done using freecodecamp.org
