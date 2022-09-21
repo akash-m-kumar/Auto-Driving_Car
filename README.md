@@ -21,4 +21,6 @@ updates at last:
 5. collision enabled 
 6. neural link and car connected
 7. automation completed 
+
+#*#*#*#*#*#*#*#*#*#*#**#*#*#*#*#*#*#*#*#*#*#*#*#*#
 This project is a learning project done using freecodecamp.org
