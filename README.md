@@ -23,4 +23,4 @@ updates at last:
 7. automation completed 
 
 
-This project is a learning project done using freecodecamp.org
+This is a learning project done using freecodecamp.org
